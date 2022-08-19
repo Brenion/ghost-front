@@ -1,0 +1,9 @@
+
+.slider::-moz-range-thumb {
+    width: 30px;
+    height: 20px;
+   
+    
+    @apply rounded-md bg-gray-700;
+    cursor: pointer;
+}
